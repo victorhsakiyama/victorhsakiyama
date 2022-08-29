@@ -9,10 +9,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=victorhsakiyama&theme=gotham&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victorhsakiyama&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
- 
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
